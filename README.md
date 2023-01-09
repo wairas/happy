@@ -6,6 +6,11 @@ Hyperspectral data processing and modelling.
 * [happy-band-selector](https://github.com/wairas/happy-band-selector)
 * [happy-hyper-to-rgb](https://github.com/wairas/happy-hyper-to-rgb)
 
+## Docker images
+
+* [happy-gdal-docker](https://github.com/wairas/happy-gdal-docker)
+* [happy-spy-docker](https://github.com/wairas/happy-spy-docker)
+
 ## Resources
 
 * [L3 Harris hyper-spectral tutorials/example data](https://www.l3harrisgeospatial.com/Support/Self-Help-Tools/Tutorials)
