@@ -21,3 +21,4 @@ Hyperspectral data processing and modelling.
 * [DeepHyperX](https://github.com/wairas/DeepHyperX) (hyperspectral classification using deep learning)
 * [GDAL](https://gdal.org/index.html) (geospatial raster/vector conversion library)
 * [SPy](https://www.spectralpython.net/) (*spectral python* - library for dealing with hyperspectral data)
+* [SPy utilities](https://github.com/wairas/spy-utilities) (command-line utilities for *spectral python*)
