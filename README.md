@@ -11,6 +11,7 @@ Hyperspectral data processing and modelling.
 
 * [happy-gdal-docker](https://github.com/wairas/happy-gdal-docker)
 * [happy-spy-docker](https://github.com/wairas/happy-spy-docker)
+* [happy-spy-utilities-docker](https://github.com/wairas/happy-spy-utilities-docker)
 
 ## Resources
 
