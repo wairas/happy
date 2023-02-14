@@ -6,6 +6,7 @@ Hyperspectral data processing and modelling.
 * [happy-adams](https://github.com/wairas/happy-adams) (ADAMS application)
 * [happy-band-selector](https://github.com/wairas/happy-band-selector)
 * [happy-hyper-to-rgb](https://github.com/wairas/happy-hyper-to-rgb)
+* [happy-metadata](https://github.com/wairas/happy-metadata)
 
 ## Docker images
 
