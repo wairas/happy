@@ -15,7 +15,6 @@ Hyperspectral data processing and modelling.
 
 ## Resources
 
-* [happy-website (code)](https://github.com/wairas/happy-website)
 * [L3 Harris hyper-spectral tutorials/example data](https://www.l3harrisgeospatial.com/Support/Self-Help-Tools/Tutorials)
 
 ## Tools
