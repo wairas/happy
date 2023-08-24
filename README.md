@@ -4,7 +4,7 @@ Hyperspectral data processing and modelling.
 ## Modules
 
 * [happy-adams](https://github.com/wairas/happy-adams) (ADAMS application)
-* [happy-metadata](https://github.com/wairas/happy-metadata)
+* [happy-tools](https://github.com/wairas/happy-tools)
 * [SPy utilities](https://github.com/wairas/spy-utilities) (command-line utilities for *spectral python*)
 
 ## Docker images
