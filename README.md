@@ -5,7 +5,7 @@ Hyperspectral data processing and modelling.
 
 * [happy-adams](https://github.com/wairas/happy-adams) (ADAMS application)
 * [happy-scripts](https://github.com/wairas/happy-scripts) (for installing/launching happy-tools applications/docker images)
-* [happy-tools](https://github.com/wairas/happy-tools)
+* [happy-tools](https://github.com/wairas/happy-tools) (Python library for viewing and processing HSI images)
 * [happy-tools-keras](https://github.com/wairas/happy-tools-keras) (extensions to happy-tools with Keras Deep Learning support)
 * [SPy utilities](https://github.com/wairas/spy-utilities) (command-line utilities for *spectral python*)
 
